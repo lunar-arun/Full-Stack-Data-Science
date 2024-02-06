@@ -1,0 +1,16 @@
+,college_name,region,year,population,success_rate
+0,ABC University,East,2020,1500,0.85
+1,XYZ College,West,2019,1200,0.78
+2,123 Institute,South,2021,2000,0.92
+3,EFG University,North,2022,1800,0.89
+4,LMN College,East,2020,1300,0.75
+5,UVW Institute,West,2018,1600,0.8
+6,PQR University,South,2019,1700,0.88
+7,IJK College,North,2022,1900,0.91
+8,DEF Institute,East,2021,1400,0.82
+9,OPQ University,West,2020,1100,0.79
+10,RST College,South,2018,2200,0.94
+11,GHI Institute,North,2019,1600,0.87
+12,JKL University,East,2021,2000,0.86
+13,MNO College,West,2018,1500,0.81
+14,XYZ Institute,South,2022,1800,0.9
